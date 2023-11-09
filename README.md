@@ -17,7 +17,7 @@ Official site: https://retool.com/
 - After successfull form submission, `addNewEvent` query is triggered - using dynamic variables provided in form.
 
 See video:
-![chrome_aSbx5ZbrlE](https://github.com/nataliacza/low-code-exploration/assets/68182069/c3e3eabf-644f-4ef4-aad6-8d4a7690f94a)
+![retool-01-calendar](https://github.com/nataliacza/low-code-exploration/assets/68182069/cd7b7f0b-ceb7-46e5-83cb-fe3f7c4faacd)
 
 ### The Team
 - Table component uses `Goggle Sheets` resource. Query retrieves data from sheet and maps it to the table.
@@ -27,11 +27,11 @@ See video:
 - After successfull form submission, `addNewMember` or `updateMember` query is triggered - using dynamic variables provided in form.
 
 See video:
-![chrome_mnI5F20wC3](https://github.com/nataliacza/low-code-exploration/assets/68182069/8f442ccd-a776-405e-8127-a1aa9b55d408)
+![retool-02-team](https://github.com/nataliacza/low-code-exploration/assets/68182069/b1159722-0386-4400-99e4-d95e5823c9df)
 
 ### Education
 - Movies component uses `Goggle Sheets` resource. Query retrieves data from dedicated sheets.
 - Available pagination and different tabs.
 
 See video:
-![chrome_YCSGbeRJDa](https://github.com/nataliacza/low-code-exploration/assets/68182069/f6c79f73-fe38-4eef-a224-ecce8864df99)
+![retool-03-excercises](https://github.com/nataliacza/low-code-exploration/assets/68182069/91720128-a5de-4a41-9e43-dbd8f4c8c6a1)
