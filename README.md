@@ -18,6 +18,9 @@ Official site: https://retool.com/
 - User can add new event via form. Form includes query to fetch data from `event_categories` table to extract categories and link event to existing category ID.
 - After successfull form submission, `addNewEvent` query is triggered - using dynamic variables provided in form.
 
+See video:
+![chrome_aSbx5ZbrlE](https://github.com/nataliacza/low-code-exploration/assets/68182069/c3e3eabf-644f-4ef4-aad6-8d4a7690f94a)
+
 ### The Team
 ![image](https://github.com/nataliacza/low-code-exploration/assets/68182069/1e8cdb1e-e201-429b-9871-d5b4177f4251)
 
@@ -26,6 +29,9 @@ Official site: https://retool.com/
 - User can update member details. Form is pre-filled with existing member data.
 - Additional `JavaScript` function lists all unavailable numbers, so user can check which numbers are taken.
 - After successfull form submission, `addNewMember` or `updateMember` query is triggered - using dynamic variables provided in form.
+
+See video:
+![chrome_h0ic6qsnmS](https://github.com/nataliacza/low-code-exploration/assets/68182069/4605b93f-dcb8-45c3-895e-51f3c637a6b7)
 
 ### Education
 ![image](https://github.com/nataliacza/low-code-exploration/assets/68182069/27d8e5f9-e9b1-4d92-8256-adc8f778f604)
