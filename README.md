@@ -2,13 +2,16 @@
 Example projects made on <strong>low-code platforms</strong> (free to use plans). My main goal was to explore low-code platforms possibilities and tooling.
 
 
-<details><summary><h3>Retool</h3></summary>
+## Retool
 
 Official tool site: https://retool.com/
 
 - <strong>Project Title:</strong> Softball Team Playground
 - <strong>Usage:</strong> Internal resources for softball team
 - <strong>Link to page:</strong> [Softball Team Playground](https://natka.retool.com/apps/19574222-7bfb-11ee-a3ef-ffa5d0c46abc/Softball%20Team%20Playground) => <em>At the moment Retool does not offer public page.</em>
+
+<details><summary>Read more...</summary>
+
 
 ### Event Calendar
 - Calendar component uses `PostgreSQL` Retool Database resource. SQL query retrieves data from `softball_events` table and maps it to the component (including joining tables).
@@ -39,13 +42,15 @@ See video:
 
 
 
-<details><summary><h3>Mendix</h3></summary>
+## Mendix
 
 Official tool site: https://www.mendix.com/
 
 - <strong>Project Title:</strong> LearnNow Training Management (product of <em>Rapid Developer Training Path</em>)
 - <strong>Usage:</strong> Manage courses with access for users with different roles
 - <strong>Link to page:</strong> [LearnNow](https://learnnowtrainingmanagement22464-sandbox.mxapps.io/login.html?profile=Responsive)
+
+<details><summary>Read more...</summary>
 
 Further details will be filled shortly...
 
