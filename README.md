@@ -52,6 +52,15 @@ Official tool site: https://www.mendix.com/
 
 <details><summary>Read more...</summary>
 
-Further details will be filled shortly...
+### Main Page
+![chrome_yb8N1ZcfVk](https://github.com/nataliacza/low-code-exploration/assets/68182069/3fbd5430-5227-4c5a-b7d8-ed623e518a40)
+
+### Courses
+![chrome_xG6MkwNqaX](https://github.com/nataliacza/low-code-exploration/assets/68182069/8af5a349-15c8-46ab-b994-c8f561a467c9)
+
+
+
+
+
 
 </details>
