@@ -58,9 +58,14 @@ Official tool site: https://www.mendix.com/
 ### Courses
 ![chrome_xG6MkwNqaX](https://github.com/nataliacza/low-code-exploration/assets/68182069/8af5a349-15c8-46ab-b994-c8f561a467c9)
 
+### Locations
+![chrome_TQjqTLYoij](https://github.com/nataliacza/low-code-exploration/assets/68182069/f387582a-8d2d-4a63-9242-a5a1f731b39f)
 
+### Teachers
+![chrome_48fuW4B0iS](https://github.com/nataliacza/low-code-exploration/assets/68182069/77d4586a-7b8a-4e14-8bf8-042de188df95)
 
-
+### Trainees
+![chrome_bbNmKtYV0l](https://github.com/nataliacza/low-code-exploration/assets/68182069/0a383ca6-613d-431d-baf4-fadbd304d18d)
 
 
 </details>
