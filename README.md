@@ -67,5 +67,7 @@ Official tool site: https://www.mendix.com/
 ### Trainees
 ![chrome_bbNmKtYV0l](https://github.com/nataliacza/low-code-exploration/assets/68182069/0a383ca6-613d-431d-baf4-fadbd304d18d)
 
+### Training Event
+![chrome_5jncCfbjeM](https://github.com/nataliacza/low-code-exploration/assets/68182069/56a5b4ef-9c26-4574-831c-b7c4e03a39f1)
 
 </details>
