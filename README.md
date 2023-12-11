@@ -48,9 +48,22 @@ Official tool site: https://www.mendix.com/
 
 - <strong>Project Title:</strong> LearnNow Training Management (product of <em>Rapid Developer Training Path</em>)
 - <strong>Usage:</strong> Manage courses with access for users with different roles
-- <strong>Link to page:</strong> [LearnNow](https://learnnowtrainingmanagement22464-sandbox.mxapps.io/login.html?profile=Responsive)
+- <strong>Link to page:</strong> [LearnNow](https://learnnowtrainingmanagement22464-sandbox.mxapps.io/index.html?profile=Responsive)
 
 <details><summary>Read more...</summary>
+
+You can login to application using different accounts, with different access rights:
+
+```
+demo_administrator
+6p0R9tDJdpQy
+
+demo_teacher
+JfIY7TTUCBj2
+
+demo_trainee
+G9DrM2MBxbEE
+```
 
 ### Main Page
 ![chrome_yb8N1ZcfVk](https://github.com/nataliacza/low-code-exploration/assets/68182069/3fbd5430-5227-4c5a-b7d8-ed623e518a40)
